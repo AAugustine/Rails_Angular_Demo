@@ -1,0 +1,17 @@
+{
+  "name": "recets",
+  "version": "0.0.0",
+  "authors": [
+    "Alex Augustine <aaugustine10@gmail.com>"
+  ],
+  "description": "Rails + Angular Demo",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
