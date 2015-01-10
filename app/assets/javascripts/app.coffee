@@ -1,0 +1,1 @@
+recets = angular.module('recets', [])
